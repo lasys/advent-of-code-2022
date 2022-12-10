@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0B00EEC1-45E7-42DA-878E-62A5A71D067C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A54FD7A-DCB8-4EFE-8515-6501E5EBA6DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AoC22/Day7/Day7.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95C52867-4498-43CC-BA42-1E07F2ED6406"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AoC22/Day7/Day7.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "cd(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95C52867-4498-43CC-BA42-1E07F2ED6406 - 623e038144c501f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AoC22.Directory.cd(Swift.String) -&gt; Swift.Optional&lt;AoC22.Directory&gt;"
+                  moduleName = "AoC22"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lachermeier/Projects/AoC22/AoC22/Day7/Day7.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "95C52867-4498-43CC-BA42-1E07F2ED6406 - 631c6434fe1f616c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AoC22.Directory) -&gt; Swift.Bool in AoC22.Directory.cd(Swift.String) -&gt; Swift.Optional&lt;AoC22.Directory&gt;"
+                  moduleName = "AoC22"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lachermeier/Projects/AoC22/AoC22/Day7/Day7.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
